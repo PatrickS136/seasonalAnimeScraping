@@ -6,8 +6,8 @@ The website I used for the data is <a href="https://myanimelist.net/">myanimelis
 
 The only thing I made myself are these files
 
-Replit link: <a href="https://replit.com/@PatrickSumarli/seasonalAnimeScraping">Here</a>
-If you can't run it, try to type in "pip install bs4"
+Replit link: <a href="https://replit.com/@PatrickSumarli/seasonalAnimeScraping">Here</a>. 
+If you can't run it, try to type in "pip install bs4" in the terminal
 
 <h2>Example usage</h2>
 <hr>
