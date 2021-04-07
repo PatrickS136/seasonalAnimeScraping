@@ -3,7 +3,7 @@ import requests
 
 # Displaying the prompts
 print("\nThis program will scrape myanimelist for anime titles of a minimum rating\n")
-num=input("\nEnter the minimum rating as a single digit decimal number: ")
+num=input("\nEnter the minimum rating as an X.Y decimal number: ")
 
 # Scraping the website
 data=requests.get("https://myanimelist.net/anime/season").text
